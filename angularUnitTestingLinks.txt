@@ -1,0 +1,6 @@
+https://github.com/juristr/angular-testing-recipes
+https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
+https://codecraft.tv/courses/angular/unit-testing/overview/
+https://angular.io/guide/testing
+https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html
+https://medium.com/@bencabanes/angular-component-testing-with-examples-7c52b2b7035e
